@@ -3,5 +3,5 @@ MyProject
 
 My Project for Macroeconomics
 
-Project one : Middle poverty trap with MS models
+Project one : 货币政策的利率传导效应
 ------------------------------------------------
